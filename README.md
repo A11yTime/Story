@@ -1,4 +1,4 @@
-# Dynamic button listed here
+# Dynamic button with focus management.
 
 # vue3-cli-tailwind-app
 
